@@ -82,16 +82,6 @@ The real test of my "Zero-Budget" philosophy came when it was time to host this 
 
 Reflecting on the journey from that old Toshiba to managing a modular SaaS, the lesson is clear: technology isn't about the money you spend, but the architecture you forge. I managed to reach a massive userbase and build world-class systems with \$0 spent in the early days. Today, I don't just build apps; I architect solutions that bridge the gap between high-end technology and real-world business needs.
 
-## Chapter 7: The \$4 Empire & The Future of SaaS
-
-Having a powerful machine in my hands didn't change my philosophy; it only amplified it. I took the years of "survival engineering" I had mastered on that old Toshiba and poured them into my most ambitious project to date: Mashroo3.net. This wasn't just another app; it was a modular, enterprise-grade SaaS platform designed to handle everything from POS and CRM to inventory management.
-
-The ultimate challenge was hosting a system this complex without falling into the trap of expensive cloud subscriptions. Leveraging my deep experience in Linux environments and Docker, I architected the entire platform to run on a single \$4 VPS. By using tools like Dokploy for deployment and focusing on extreme backend optimization, I proved that a high-performance business solution doesn't require a massive infrastructure budget.
-
-In early 2026, I pushed the boundaries further by integrating Large Language Model (LLM) APIs into the Mashroo3 dashboard. This added a layer of predictive intelligence, enabling features like automated restocking alerts and deep sales data analysis for business owners. It was no longer just about managing a business; it was about giving small business owners the kind of AI-driven insights usually reserved for giant corporations.
-
-Today, my journey has come full circle. From the kid who cracked games to save coins, I have evolved into a Lead Software Engineer and a mentor for the next generation of students. My "Zero-Budget" roots are now my greatest professional asset, allowing me to deliver tailored, high-efficiency solutions at Pocket Studios while pursuing my degree at the University of the People. I don't just build software anymore; I build systems that are "Unbreakable" because they were forged in the hardest constraints imaginable.
-
 ## Conclusion: The Architecture of Grit
 
 Looking back at the flickering screen of that old Toshiba, I realize that my greatest asset was never the hardware I lacked, but the constraints I embraced. The "Zero-Budget" journey wasn't just about saving money; it was a rigorous training ground for a specific kind of engineering-one that prioritizes efficiency, resilience, and creative problem-solving over raw computing power.
